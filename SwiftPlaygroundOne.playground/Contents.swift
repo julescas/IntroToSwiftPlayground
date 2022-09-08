@@ -15,4 +15,11 @@ myOwnVariableThree = "and I'm going to add 3 strings together"
 var myOwnVariableFour = myOwnVariable + myOwnVariableTwo + myOwnVariableThree
 print(myOwnVariableFour)
 
-
+// Assignment #2 Introduction to True and False
+var myVar = appState
+var appState = false
+print (appState)
+var numberOne = 5
+var numberTwo = 7
+var comparison = numberOne < numberTwo
+var comparisontwo = numberOne > numberTwo
