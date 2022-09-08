@@ -23,3 +23,8 @@ var numberOne = 5
 var numberTwo = 7
 var comparison = numberOne < numberTwo
 var comparisontwo = numberOne > numberTwo
+var X: String
+X = "x is 6"
+var Y: String
+Y = "y is 23"
+var comparisonThree = X == Y
