@@ -1,6 +1,7 @@
 import UIKit
 
 var greeting = "Hello, playground"
+// Intro to Variables & Strings
 var myFirstVariable: String
 myFirstVariable = "I've created my first variable"
 var mySecondVariable = "and look I added 2 strings together"
